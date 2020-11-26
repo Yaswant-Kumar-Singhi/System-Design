@@ -24,6 +24,7 @@ A simple use case is given below :
 ```
 
 As per my use case my requirements for my car parking management system are - 
+
  1. ustomer should have a Car 
  2. Parking ticket will only be issued if the customer parks his car 
  3. Toll gates should be opened and closed when customer uses our parking space
